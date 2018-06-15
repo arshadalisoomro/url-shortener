@@ -1,4 +1,4 @@
-#URL Shortener
+# URL Shortener
 ![Screenshot](https://raw.githubusercontent.com/bizarrecode/url-shortener/master/front-end/src/assets/img/shortener0.png)
 
 ![Screenshot](https://raw.githubusercontent.com/bizarrecode/url-shortener/master/front-end/src/assets/img/shortener1.png)
@@ -30,5 +30,6 @@ Make sure you have [npm](https://www.npmjs.com/), [Angular CLI](https://cli.angu
 
 	$ cd url-shortener/front-end
 	$ ng serve
+	```
 
-Your app should now be running on [localhost:4200](http://localhost:4200).
+Your app should now be running on [localhost:4200](http://localhost:4200)
